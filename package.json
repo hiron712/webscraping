@@ -1,25 +1,13 @@
 {
-  "name": "kobe",
+  "name": "scraping",
   "version": "1.0.0",
-  "description": "kobe",
-  "main": "gulpfile.js",
-  "scripts": {
-    "start": "gulp"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/tuqulore/kobe.git"
-  },
+  "description": "scraping",
   "author": "",
-  "license": "ISC",
   "devDependencies": {
     "cheerio": "^1.0.0-rc.3",
     "csv-parser": "^2.3.2",
     "fs": "0.0.1-security",
-    "gulp": "^4.0.2",
     "json2csv": "^4.5.4",
-    "puppeteer": "^1.4.0",
-    "request": "^2.88.0",
     "request-promise": "^4.2.5"
   }
 }
