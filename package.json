@@ -8,6 +8,7 @@
     "csv-parser": "^2.3.2",
     "fs": "0.0.1-security",
     "json2csv": "^4.5.4",
+    "request": "^2.88.0",
     "request-promise": "^4.2.5"
   }
 }
