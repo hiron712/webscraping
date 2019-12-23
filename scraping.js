@@ -1,4 +1,5 @@
 const fs = require('fs');
+const request= require('request');
 const rp = require('request-promise');
 const csv = require('csv-parser');
 const cheerio = require('cheerio');
